@@ -24,12 +24,6 @@ body{
   }
   .logo-studio {
     color: #2E2F42;
- font-family: 'Raleway', sans-serif;
- font-size: 18px;
- font-weight: 700;
- line-height: 1.16667;
- letter-spacing: -0.03em;
- text-transform: uppercase;
   }
   .logo-studio-footer{
     color: #F4F4FD;
@@ -42,6 +36,7 @@ body{
     margin: 0;
   }
   .menu-link{
+ color: #2E2F42;
  font-size: 16px;
  font-weight: 500;
  line-height: 1.5;
