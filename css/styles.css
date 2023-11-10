@@ -79,6 +79,9 @@ body{
 .button-section-one:hover,:focus{
     background-color: #404BBF;
 }
+.section-two{
+    color: #FFFFFF;
+}
 .title-section-two{
  visibility: hidden;
 }
