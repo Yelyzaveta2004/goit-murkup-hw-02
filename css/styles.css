@@ -25,16 +25,7 @@ body{
   .logo-studio {
     color: #2E2F42;
   }
-  .logo-studio-footer{
-    color: #F4F4FD;
- font-family: 'Raleway', sans-serif;
- font-size: 18px;
- font-weight: 700;
- line-height: 1.17;
- letter-spacing: 0.03em;
- text-transform: uppercase;
-    margin: 0;
-  }
+ 
   .menu-link{
  color: #2E2F42;
  font-size: 16px;
@@ -79,9 +70,7 @@ body{
 .button-section-one:hover,:focus{
     background-color: #404BBF;
 }
-.section-two{
-    color: #FFFFFF;
-}
+
 .title-section-two{
  visibility: hidden;
 }
@@ -101,6 +90,9 @@ body{
 }
 .section-three{
  background-color: #F4F4FD;
+}
+.item-section-three{
+ background-color: #FFFFFF;
 }
 .title-section-three{
     color: #2E2F42;
@@ -135,7 +127,15 @@ text-transform: capitalize;
  line-height: 1.5;
  letter-spacing: 0.02em;
 }
-
+ .logo-studio-footer{
+    color: #F4F4FD;
+ font-family: 'Raleway', sans-serif;
+ font-size: 18px;
+ font-weight: 700;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+  }
 .footer-one{
     background-color: #2E2F42;
 }
