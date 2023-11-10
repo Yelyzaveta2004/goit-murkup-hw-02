@@ -9,19 +9,19 @@ button{
 }
 body{
     font-family: 'Roboto', sans-serif;
-    color:#2E2F42 ;
+    color: #434455;
+    background-color:#FFFFFF;
 }
 .logo-web {
     color: #4D5AE5;
  font-family: 'Raleway', sans-serif;
  font-size: 18px;
  font-weight: 700;
- line-height: 1.16667;
- letter-spacing: -0.03em;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
  text-transform: uppercase;
     margin: 0;
   }
-  
   .logo-studio {
     color: #2E2F42;
  font-family: 'Raleway', sans-serif;
@@ -37,8 +37,8 @@ body{
  font-family: 'Raleway', sans-serif;
  font-size: 18px;
  font-weight: 700;
- line-height: 1.16667;
- letter-spacing: -0.03em;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
  text-transform: uppercase;
     margin: 0;
   }
@@ -54,6 +54,7 @@ body{
   
  .link-address{
     color:#434455;
+    font-style: normal;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -67,7 +68,7 @@ body{
  text-align: center;
  font-size: 56px;
  font-weight: 700;
- line-height: 1.07143;
+ line-height: 1.07;
  letter-spacing: 0.02em;
 }
 .section-one{
@@ -75,9 +76,16 @@ body{
 }
 .button-section-one{
     color: #FFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background-color:#4D5AE5;
 }
-.button-section-one{
+.button-section-one:hover,:focus{
+    background-color: #404BBF;
+}
+.title-section-two{
  visibility: hidden;
 }
 .features-section-two{
@@ -102,7 +110,7 @@ body{
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
