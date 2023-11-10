@@ -12,7 +12,8 @@ body{
     color: #434455;
     background-color:#FFFFFF;
 }
-.logo-web {
+
+.logo {
     color: #4D5AE5;
  font-family: 'Raleway', sans-serif;
  font-size: 18px;
@@ -20,7 +21,6 @@ body{
  line-height: 1.17;
  letter-spacing: 0.03em;
  text-transform: uppercase;
-    margin: 0;
   }
   .logo-studio {
     color: #2E2F42;
@@ -30,7 +30,6 @@ body{
  line-height: 1.16667;
  letter-spacing: -0.03em;
  text-transform: uppercase;
-    margin: 0;
   }
   .logo-studio-footer{
     color: #F4F4FD;
@@ -135,7 +134,7 @@ text-transform: capitalize;
     color: #F4F4FD;
  font-size: 16px;
  font-weight: 400;
- line-height: 1.5
+ line-height: 1.5;
  letter-spacing: 0.02em;
 }
 
